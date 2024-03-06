@@ -9,6 +9,10 @@
 
 [Aredy's GitHub Page- RT500](https://aquijano10.github.io/RT5000/)
 
+[Arthur's interview questions](https://github.com/muttttt/Group-3-Robot-App-repo/blob/main/ArthurInterviewQuestions)
+
+[Arthur's Github page]( muttttt.github.io/ChickenSoup/ )
+
 ## Prioritized Requirements
 1. The ability to function
 2. The ability to charge
