@@ -7,6 +7,7 @@
 
 [Ramon's interview questions](https://github.com/RamonGarciiaa/10-interview-questions)
 
+[Aredy's GitHub Page- RT500](https://aquijano10.github.io/RT5000/)
 
 ## Prioritized Requirements
 1. The ability to function
