@@ -7,6 +7,7 @@
 
 [Ramon's interview questions](https://github.com/RamonGarciiaa/10-interview-questions)
 
+
 ## Prioritized Requirements
 1. The ability to function
 2. The ability to charge
@@ -18,5 +19,8 @@
 8. The ability to clean
 9. The ability to replace parts
 10. The ability to display values.
+
+## Landing Page Wireframe
+![](robotasker500.png)
 
 
