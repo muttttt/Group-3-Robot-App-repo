@@ -3,7 +3,7 @@
 
 # ROBOTASKER 500
 ## Interview Questions, User Stories and Requirements
-[Trello Board](https://trello.com/w/designingarobotappgroupfinal/home)
+[Trello Board](https://trello.com/w/designingarobotappgroupfinal/home) - individual requirements
 
 [Ramon's interview questions](https://github.com/RamonGarciiaa/10-interview-questions)
 
@@ -12,7 +12,9 @@
 [Arthur's interview questions](https://github.com/muttttt/Group-3-Robot-App-repo/blob/main/ArthurInterviewQuestions)
 
 [Arthur's Github page]( muttttt.github.io/ChickenSoup/ )
+
 [Daniel's Github Page](https://github.com/danielgebar/Daniel-s-trello-github-lucid)
+
 ## Prioritized Requirements
 1. The ability to function
 2. The ability to charge
