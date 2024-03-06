@@ -36,5 +36,5 @@
 ## Chefs Salad Wireframe Page 
 ![Lucid Chart Chef salad](https://github.com/muttttt/Group-3-Robot-App-repo/assets/160677680/ab06d6d4-4329-44a1-9f8b-6444ef6df119)
 ## Tuna fish wireframe Page 
-![Lucid chart](![Screenshot (1)](https://github.com/muttttt/Group-3-Robot-App-repo/assets/160678227/963e678b-e54b-47e8-816b-febd5489cbaf)
+Lucid chart(![Screenshot (1)](https://github.com/muttttt/Group-3-Robot-App-repo/assets/160678227/963e678b-e54b-47e8-816b-febd5489cbaf)
 
