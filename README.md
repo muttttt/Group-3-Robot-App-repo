@@ -25,5 +25,8 @@
 ##  Chicken Soup Page Wireframe
 ![](chickensoup.png)
 
+## Chili and Rice Wireframe
+![](ChiliandRiceLucidChart.png)
+
 
 
