@@ -28,5 +28,6 @@
 ## Chili and Rice Wireframe
 ![](ChiliandRiceLucidChart.png)
 
-
+## Chefs Salad Wireframe Page 
+![Lucid Chart Chef salad](https://github.com/muttttt/Group-3-Robot-App-repo/assets/160677680/ab06d6d4-4329-44a1-9f8b-6444ef6df119)
 
