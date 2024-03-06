@@ -12,7 +12,7 @@
 [Arthur's interview questions](https://github.com/muttttt/Group-3-Robot-App-repo/blob/main/ArthurInterviewQuestions)
 
 [Arthur's Github page]( muttttt.github.io/ChickenSoup/ )
-
+[Daniel's Github Page](https://github.com/danielgebar/Daniel-s-trello-github-lucid)
 ## Prioritized Requirements
 1. The ability to function
 2. The ability to charge
@@ -35,4 +35,6 @@
 
 ## Chefs Salad Wireframe Page 
 ![Lucid Chart Chef salad](https://github.com/muttttt/Group-3-Robot-App-repo/assets/160677680/ab06d6d4-4329-44a1-9f8b-6444ef6df119)
+## Tuna fish wireframe Page 
+![Lucid chart](![Screenshot (1)](https://github.com/muttttt/Group-3-Robot-App-repo/assets/160678227/963e678b-e54b-47e8-816b-febd5489cbaf)
 
