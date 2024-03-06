@@ -13,7 +13,7 @@
 
 [Arthur's Github page]( muttttt.github.io/ChickenSoup/ )
 
-[Daniel's Github Page](https://github.com/danielgebar/Daniel-s-trello-github-lucid)
+[Daniel's Github Page and interview questions](https://github.com/danielgebar/Daniel-s-trello-github-lucid)
 
 ## Prioritized Requirements
 1. The ability to function
